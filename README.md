@@ -13,10 +13,11 @@ This project is designed to automate the process of taking selfies and detecting
 ## Getting Started
 
 ## Prerequisites
--Python 3.11: Ensure Python is installed on your system.
--Virtual Environment (optional but recommended): Set up a virtual environment to isolate project dependencies.
--OpenCV and Contrib Modules: Install OpenCV along with its contrib modules by running:
- pip install opencv-python opencv-contrib-python
+- Python 3.11: Ensure Python is installed on your system.
+- Virtual Environment (optional but recommended): Set up a virtual environment to isolate project dependencies.
+- OpenCV and Contrib Modules: Install OpenCV along with its contrib modules by running:
+  ```bash
+  pip install opencv-python opencv-contrib-python
 
 ## Installation
 Clone the repository:
