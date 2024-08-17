@@ -4,11 +4,11 @@
 This project is designed to automate the process of taking selfies and detecting faces and smiles using Python and OpenCV. The program utilizes Haar Cascade classifiers to detect human faces and smiles in real-time.
 
 ## Features
--Face Detection: Detects human faces using haarcascade_frontalface_default.xml.
--Cat Face Detection: Detects cat faces using haarcascade_frontalcatface.xml.
--Smile Detection: Detects smiles using haarcascade_smile.xml.
--Selfie Capture: Captures a selfie using the Selfie.py script when a face and smile are detected.
--Sound Effect: Plays a camera click sound (camera_click.wav) when a selfie is captured.
+ -Face Detection: Detects human faces using haarcascade_frontalface_default.xml.
+ -Cat Face Detection: Detects cat faces using haarcascade_frontalcatface.xml.
+ -Smile Detection: Detects smiles using haarcascade_smile.xml.
+ -Selfie Capture: Captures a selfie using the Selfie.py script when a face and smile are detected.
+ -Sound Effect: Plays a camera click sound (camera_click.wav) when a selfie is captured.
 
 ## Getting Started
 
